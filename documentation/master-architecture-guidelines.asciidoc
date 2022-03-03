@@ -1,1 +1,3 @@
 = Architecture Guidelines 
+
+Architecture guidelines explained here. 
